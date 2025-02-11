@@ -22,7 +22,7 @@
 #define ENCODE_E2APV1_HPP
 
 #include <vector>
-
+#include "e2sim_defs.h"
 
 extern "C" {
 

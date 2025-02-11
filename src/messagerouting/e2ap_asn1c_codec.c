@@ -18,7 +18,6 @@
 ******************************************************************************/
 #include "e2ap_asn1c_codec.h"
 
-
 void e2ap_asn1c_print_pdu(const E2AP_PDU_t* pdu)
 {
   //  xer_fprint(stdout, &asn_DEF_E2AP_PDU, (void *)pdu);
